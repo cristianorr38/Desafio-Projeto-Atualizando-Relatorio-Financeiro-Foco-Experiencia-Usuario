@@ -1,11 +1,12 @@
-# Desafio de Projeto - Atualizando Relatório Financeiro com Foco na Experiência do Usuário
-
-# 📊 Relatório Financeiro com Foco na Experiência do Usuário
+# 📊 Desafio de Projeto - Atualizando Relatório Financeiro com Foco na Experiência do Usuário
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Release](https://img.shields.io/badge/release-v1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Progress](https://img.shields.io/badge/progresso-100%25-success)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/cristianorr38/Desafio-Projeto-Atualizando-Relatorio-Financeiro-Foco-Experiencia-Usuario)](https://github.com/cristianorr38/Desafio-Projeto-Atualizando-Relatorio-Financeiro-Foco-Experiencia-Usuario)
+[![GitHub Stars](https://img.shields.io/github/stars/cristianorr38/Desafio-Projeto-Atualizando-Relatorio-Financeiro-Foco-Experiencia-Usuario?style=social)](https://github.com/cristianorr38/Desafio-Projeto-Atualizando-Relatorio-Financeiro-Foco-Experiencia-Usuario)
+![GitHub last commit](https://img.shields.io/github/last-commit/cristianorr38/Desafio-Projeto-Atualizando-Relatorio-Financeiro-Foco-Experiencia-Usuario)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
 ---
 
@@ -44,6 +45,20 @@ O resultado final é um relatório interativo e estilizado, com navegação intu
 
 ---
 
+## 📸 Relatório
+Para melhor visualização, seguem os prints das páginas desenvolvidas no Power BI:
+
+### 📄 Página 1 – Relatório de Vendas
+<img width="1090" height="614" alt="report_page2" src="https://github.com/user-attachments/assets/3bf46a27-5090-45ae-b249-d8f267025708" />
+
+### 📄 Página 2 – Relatório de Lucro Detalhado
+<img width="1088" height="613" alt="report_page1" src="https://github.com/user-attachments/assets/ec6d3b79-34ef-4538-b645-7c5693892a15" />
+
+### 📄 Página 3 – Relatório de Vendas Detalhado
+<img width="1088" height="609" alt="report_page3" src="https://github.com/user-attachments/assets/e74c8370-f9a2-4a8b-a50c-20f64fe2dc5e" />
+
+---
+
 ## 🚀 Funcionalidades Concluídas
 - Relatórios de vendas e lucros detalhados (2013–2014)
 - Gráficos de área, linha e barras ajustados
@@ -68,7 +83,10 @@ Etapas planejadas vs concluídas:
 - [x] Modificação da segunda página  
 - [x] Criação dos menus de navegabilidade  
 
-✅ **100% concluído**
+### ✅ Progresso do projeto
+
+Progresso atual:  
+`███████████████████████` **100% Concluído**
 
 ---
 
@@ -88,8 +106,15 @@ Etapas planejadas vs concluídas:
 ---
 
 ## 📦 Release
-- **Versão 1.0 **  
+**Versão 1.0**  
   Relatórios concluídos com navegação, estilização e dashboards completos.
+
+### 🎯 Título
+Versão Final - Relatório Financeiro com Foco na Experiência do Usuário
+
+### 👨‍💻 Autor
+**Cristiano**  
+Analista de Sistemas focado em **Data Science** e **Engenharia de Dados**.
 
 ---
 
@@ -101,4 +126,3 @@ Você pode utilizar, modificar e distribuir livremente, desde que mantenha os cr
 
 ## ✅ Status do Projeto
 **Concluído e pronto para uso.**
-
